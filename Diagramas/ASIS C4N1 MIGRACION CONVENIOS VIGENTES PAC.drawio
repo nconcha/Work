@@ -6,20 +6,52 @@
 
     <!-- Título -->
     <mxCell id="title-1" value="ASIS C4N1 - MIGRACION CONVENIOS VIGENTES PAC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#1061B0;" vertex="1" parent="1">
-      <mxGeometry x="400" y="40" width="800" height="60" as="geometry" />
+      <mxGeometry x="160" y="40" width="1120" height="60" as="geometry" />
     </mxCell>
+
+    <!-- Fila 1 -->
 
     <!-- PAC BFCL -->
     <object placeholders="1" c4Name="PAC BFCL" c4Type="Software System - APP01402" c4Description="Aplicación oficial sobre SQL. Existe aplicativo MiddleOffice para a usuarios consultar y mantener los PAC." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="pac-bfcl-1">
       <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
-        <mxGeometry height="120" width="240" x="380" y="300" as="geometry" />
+        <mxGeometry height="120" width="240" x="160" y="160" as="geometry" />
       </mxCell>
     </object>
 
     <!-- PAC CMRCL -->
     <object placeholders="1" c4Name="PAC CMRCL" c4Type="Software System - APP02833" c4Description="Solución informática que es capaz de procesar el Pago Automático de Cuentas (PAC), servicio para los clientes de tarjeta CMR Falabella." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="pac-cmrcl-1">
       <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
-        <mxGeometry height="120" width="240" x="980" y="300" as="geometry" />
+        <mxGeometry height="120" width="240" x="440" y="160" as="geometry" />
+      </mxCell>
+    </object>
+
+    <!-- SAT -->
+    <object placeholders="1" c4Name="SAT" c4Type="Software System - APP01284" c4Description="Sistema Administracion de Tarjetas de Crédito" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="sat-1">
+      <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+        <mxGeometry height="120" width="240" x="720" y="160" as="geometry" />
+      </mxCell>
+    </object>
+
+    <!-- Fila 2 -->
+
+    <!-- Flexcube -->
+    <object placeholders="1" c4Name="Flexcube" c4Type="Software System - APP03029" c4Description="Plataforma de Oracle para gestionar los productos financieros" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="flexcube-1">
+      <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+        <mxGeometry height="120" width="240" x="160" y="320" as="geometry" />
+      </mxCell>
+    </object>
+
+    <!-- PowerCenter -->
+    <object placeholders="1" c4Name="PowerCenter" c4Type="Software System - APP01499" c4Description="Es una plataforma de integración de datos que convierte los datos sin procesar en información útil para los análisis." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="powercenter-1">
+      <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+        <mxGeometry height="120" width="240" x="440" y="320" as="geometry" />
+      </mxCell>
+    </object>
+
+    <!-- Control-M -->
+    <object placeholders="1" c4Name="Control-M" c4Type="Software System - APP00562" c4Description="Control-M simplifica la orquestación del flujo de trabajo de la aplicación." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="control-m-1">
+      <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+        <mxGeometry height="120" width="240" x="720" y="320" as="geometry" />
       </mxCell>
     </object>
 
